@@ -10,4 +10,4 @@ python-multipart
 opencv-stubs
 dlib
 requests
-tensorflow==2.13.0
+tensorflow
