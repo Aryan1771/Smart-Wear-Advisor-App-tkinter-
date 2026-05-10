@@ -1,5 +1,4 @@
 /dist/*
 /build/*
-/data/encodings/*
-/data/registered_users.json
+/data/*
 *.spec
